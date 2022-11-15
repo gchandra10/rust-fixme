@@ -10,10 +10,11 @@
 
 ##  Things to do
 
-- Fix the code so it shows the output as shown below.
+- Review the code and fix it so the output matches this.
 
 ![](rust_fixme_output.png)
 
-- Write documentation in your own worlds using ///
+- Create documentation in your own worlds using ///
 - Build the documentation using ```cargo doc```
-- Push the code changes.
+- Push the code changes from your local machine to your github repository.
+- Submit the url of your repository.
