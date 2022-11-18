@@ -15,6 +15,6 @@
 ![](rust_fixme_output.png)
 
 - Create documentation in your own worlds using ///
-- Build the documentation using ```cargo doc```
+- Build the documentation using ```cargo doc --target-dir .```
 - Push the code changes from your local machine to your github repository.
 - Submit the url of your repository.
